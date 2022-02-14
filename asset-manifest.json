@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Monster-Friend-Search/static/css/main.57e9cd1d.chunk.css",
-    "main.js": "/Monster-Friend-Search/static/js/main.1a402c60.chunk.js",
-    "main.js.map": "/Monster-Friend-Search/static/js/main.1a402c60.chunk.js.map",
+    "main.js": "/Monster-Friend-Search/static/js/main.313b2cef.chunk.js",
+    "main.js.map": "/Monster-Friend-Search/static/js/main.313b2cef.chunk.js.map",
     "runtime-main.js": "/Monster-Friend-Search/static/js/runtime-main.7a1f38c5.js",
     "runtime-main.js.map": "/Monster-Friend-Search/static/js/runtime-main.7a1f38c5.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Monster-Friend-Search/static/css/2.3c03f26f.chunk.css",
     "static/js/2.e7e24cc0.chunk.js": "/Monster-Friend-Search/static/js/2.e7e24cc0.chunk.js",
     "static/js/2.e7e24cc0.chunk.js.map": "/Monster-Friend-Search/static/js/2.e7e24cc0.chunk.js.map",
     "index.html": "/Monster-Friend-Search/index.html",
-    "precache-manifest.f77350d32b8b2754196ae8629d514f2a.js": "/Monster-Friend-Search/precache-manifest.f77350d32b8b2754196ae8629d514f2a.js",
+    "precache-manifest.1ac7ff21b35438f683a5fa561850e4e7.js": "/Monster-Friend-Search/precache-manifest.1ac7ff21b35438f683a5fa561850e4e7.js",
     "service-worker.js": "/Monster-Friend-Search/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Monster-Friend-Search/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.57e9cd1d.chunk.css.map": "/Monster-Friend-Search/static/css/main.57e9cd1d.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.e7e24cc0.chunk.js",
     "static/css/main.57e9cd1d.chunk.css",
-    "static/js/main.1a402c60.chunk.js"
+    "static/js/main.313b2cef.chunk.js"
   ]
 }
