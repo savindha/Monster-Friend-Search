@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Monster-Friend-Search/static/css/main.57e9cd1d.chunk.css",
-    "main.js": "/Monster-Friend-Search/static/js/main.313b2cef.chunk.js",
-    "main.js.map": "/Monster-Friend-Search/static/js/main.313b2cef.chunk.js.map",
-    "runtime-main.js": "/Monster-Friend-Search/static/js/runtime-main.7a1f38c5.js",
-    "runtime-main.js.map": "/Monster-Friend-Search/static/js/runtime-main.7a1f38c5.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/Monster-Friend-Search/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.e7e24cc0.chunk.js": "/Monster-Friend-Search/static/js/2.e7e24cc0.chunk.js",
-    "static/js/2.e7e24cc0.chunk.js.map": "/Monster-Friend-Search/static/js/2.e7e24cc0.chunk.js.map",
-    "index.html": "/Monster-Friend-Search/index.html",
-    "precache-manifest.1ac7ff21b35438f683a5fa561850e4e7.js": "/Monster-Friend-Search/precache-manifest.1ac7ff21b35438f683a5fa561850e4e7.js",
-    "service-worker.js": "/Monster-Friend-Search/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/Monster-Friend-Search/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.57e9cd1d.chunk.css.map": "/Monster-Friend-Search/static/css/main.57e9cd1d.chunk.css.map",
-    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/Monster-Friend-Search/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Monster-Friend-Search/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/monster-friend-search/static/css/main.cebea7fb.chunk.css",
+    "main.js": "/monster-friend-search/static/js/main.86a57f50.chunk.js",
+    "main.js.map": "/monster-friend-search/static/js/main.86a57f50.chunk.js.map",
+    "runtime-main.js": "/monster-friend-search/static/js/runtime-main.b3d16665.js",
+    "runtime-main.js.map": "/monster-friend-search/static/js/runtime-main.b3d16665.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/monster-friend-search/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/monster-friend-search/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/monster-friend-search/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/monster-friend-search/index.html",
+    "precache-manifest.8996d011e55b7812be443f5ed8aa9627.js": "/monster-friend-search/precache-manifest.8996d011e55b7812be443f5ed8aa9627.js",
+    "service-worker.js": "/monster-friend-search/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/monster-friend-search/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.cebea7fb.chunk.css.map": "/monster-friend-search/static/css/main.cebea7fb.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/monster-friend-search/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monster-friend-search/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a1f38c5.js",
+    "static/js/runtime-main.b3d16665.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.e7e24cc0.chunk.js",
-    "static/css/main.57e9cd1d.chunk.css",
-    "static/js/main.313b2cef.chunk.js"
+    "static/css/main.cebea7fb.chunk.css",
+    "static/js/main.86a57f50.chunk.js"
   ]
 }
